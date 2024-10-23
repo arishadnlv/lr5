@@ -1,0 +1,56 @@
+header{
+    background: linear-gradient(#785440, #9c745b);
+    height: 40px;
+    padding: 20px 0;
+}
+ul-1{
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+}
+li-1{display:inline;}
+.a-1 {
+    color:rgb(59, 29, 7);
+    font-size: 20 px;
+    padding: 80px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+a-1:hover{
+    color:rgb(117, 80, 49);
+   }
+   a:hover{
+    color:rgb(69, 44, 24);
+   }
+   a{
+    color: black;
+    text-decoration: none;
+   }
+   h1{
+    color: rgb(59, 29, 7);
+    text-align: center;
+   }
+   h2{ color: rgb(59, 29, 7);}
+   h3{
+    color: rgb(101, 59, 30);
+    text-align: center;
+    font-size: 20px;
+   }
+   .first-letter {
+    color: rgb(104, 63, 42); /* Измените цвет на желаемый */
+  }
+  .images img {
+    display: inline-block;
+    margin: 0px;
+  }
+  body{
+    background-color: rgb(168, 133, 107);
+    font-size:medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+  
+   }
+
+
+
+
